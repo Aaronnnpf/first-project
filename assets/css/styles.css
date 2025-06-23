@@ -1,13 +1,12 @@
-body{
+body {
     background-color:lightgray;
-    background-image: url("../images/background-img.jpg"); 
+    background-image: url("../images/background-img.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100vw 100vh;
 }
-h2{
-    color: orangered;
+p {
+    font-weight: bold; 
 }
-p{
-    font-style: bold; 
-}
-.text-center{
+.text-center {
     text-align: center;
 }
